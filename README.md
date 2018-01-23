@@ -5,4 +5,4 @@
 ![USB-Soldering-Microscope](https://raw.github.com/phpscriptru/USB-Soldering-Microscope/master/Foto.jpg)
 
 #### Видео
-[![USB-Soldering-Microscope](http://img.youtube.com/vi/H17Mea6-Euc/0.jpg)](http://www.youtube.com/watch?v=H17Mea6-Euc)
+[![USB-Soldering-Microscope](http://img.youtube.com/vi/ux7mMREgl5g/0.jpg)](https://youtu.be/ux7mMREgl5g)
