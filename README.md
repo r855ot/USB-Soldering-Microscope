@@ -9,4 +9,5 @@
 * https://goo.gl/rhU8j6 Регулируемая нога;
 
 Группа в VK: http://vk.com/hamradiogoods. Еще больше полезных товаров радиолюбителю
+
 По всем вопросам: info@phpscript.ru
