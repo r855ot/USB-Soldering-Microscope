@@ -12,6 +12,6 @@
 * http://ali.pub/3532ci USB Hub;
 * 3D печать - Авито в помощь
 
-Группа в VK: http://vk.com/hamradiogoods. Что бы Такого Спаять?
+Группа в VK: http://vk.com/WhatWouldSolder. Что бы Такого Спаять?
 
 По всем вопросам: info@phpscript.ru
